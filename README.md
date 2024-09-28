@@ -1,10 +1,10 @@
 
-<h2> **👋 Hi, I’m Sunita Yadav**</h2>
+<h2> <b>👋 Hi, I’m Sunita Yadav</b></h2>
 Aspiring Full Stack Developer | Database Enthusiast | Tech Learner
-
+<br>
 Welcome to my GitHub profile! I am currently pursuing a degree in BSc Information Technology and have developed a strong interest in Web Development and Database Management. I am passionate about building efficient, user-friendly applications and systems that deliver real-world value.
 
-**👀 What I’m Interested In:**
+<h2>👀 What I’m Interested In:</h2>
 I have always been drawn to Web Development because it allows me to blend creativity with technical skills to create engaging, functional websites and applications. I enjoy working with HTML, CSS, JavaScript, and frameworks like React to build responsive, dynamic web pages. Alongside this, I am fascinated by the world of Database Management, where I can optimize data handling processes and ensure the smooth functioning of backend systems.
 
 As I continue to grow in these fields, I am constantly seeking out new tools and technologies to expand my skill set.
