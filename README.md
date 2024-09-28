@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sunita Yadav - GitHub Profile</title>
 
 </head>
 <body>
@@ -54,11 +51,6 @@
       <strong>Email:</strong> <a href="mailto:sunitayadav190105@gmail.com">sunitasunitayadav190105@gmail.com</a>
     </p>
     <p>Feel free to drop me a message! I love engaging with fellow tech enthusiasts and am always looking to learn from new perspectives.</p>
-  </div>
-
-  <div class="section">
-    <h2>😄 Pronouns:</h2>
-    <p>She/Her</p>
   </div>
 
   <div class="section">
