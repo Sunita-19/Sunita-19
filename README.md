@@ -4,68 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sunita Yadav - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
 
-    h1 {
-      color: #4CAF50;
-      font-size: 36px;
-    }
-
-    h2 {
-      color: #333;
-      border-bottom: 2px solid #4CAF50;
-      padding-bottom: 5px;
-      margin-bottom: 15px;
-    }
-
-    p, ul {
-      font-size: 18px;
-      line-height: 1.6;
-    }
-
-    a {
-      color: #4CAF50;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .section {
-      margin-bottom: 30px;
-    }
-
-    .skills-list {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    .skills-list li {
-      display: inline-block;
-      background-color: #4CAF50;
-      color: white;
-      padding: 10px 15px;
-      margin: 5px;
-      border-radius: 20px;
-    }
-
-    .contact-info {
-      margin-top: 20px;
-    }
-
-    .fun-fact {
-      font-style: italic;
-      color: #888;
-    }
-  </style>
 </head>
 <body>
 
