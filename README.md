@@ -1,5 +1,5 @@
 
-**👋 Hi, I’m Sunita Yadav**
+<h2> **👋 Hi, I’m Sunita Yadav**</h2>
 Aspiring Full Stack Developer | Database Enthusiast | Tech Learner
 
 Welcome to my GitHub profile! I am currently pursuing a degree in BSc Information Technology and have developed a strong interest in Web Development and Database Management. I am passionate about building efficient, user-friendly applications and systems that deliver real-world value.
