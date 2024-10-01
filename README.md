@@ -48,7 +48,7 @@
       <br>
       <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunita-yadav-057a75300" target="_blank">Sunita Yadav</a>
       <br>
-      <strong>Email:</strong> <a href="mailto:sunitayadav190105@gmail.com">sunitasunitayadav190105@gmail.com</a>
+      <strong>Email:</strong> <a href="mailto:sunitayadav190105@gmail.com">sunitayadav190105@gmail.com</a>
     </p>
     <p>Feel free to drop me a message! I love engaging with fellow tech enthusiasts and am always looking to learn from new perspectives.</p>
   </div>
