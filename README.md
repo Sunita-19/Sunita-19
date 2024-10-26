@@ -14,7 +14,7 @@
 
   <div class="section">
     <h2>👀 What I’m Interested In:</h2>
-    <p>I have always been drawn to Data Science because it allows me to blend analytical skills with technical expertise to uncover insights and drive informed decision-making. I enjoy working with <strong>Python</strong>, <strong>SQL</strong>, <strong>R</strong>, and libraries like <strong>pandas</strong> and <strong>NumPy</strong> to analyze, visualize, and interpret data. Alongside this, I am fascinated by the world of <strong>Database Management</strong>, where I can optimize data handling processes and ensure the smooth functioning of backend systems.</p>
+    <p>I have always been drawn to Data Science because it allows me to blend analytical skills with technical expertise to uncover insights and drive informed decision-making. I enjoy working with <strong>Python</strong>, <strong>SQL</strong> and libraries like <strong>pandas</strong> and <strong>NumPy</strong> to analyze, visualize, and interpret data. Alongside this, I am fascinated by the world of <strong>Database Management</strong>, where I can optimize data handling processes and ensure the smooth functioning of backend systems.</p>
     <p>As I continue to grow in these fields, I am constantly seeking out new tools and technologies to expand my skill set.</p>
   </div>
 
