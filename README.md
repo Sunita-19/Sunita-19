@@ -6,35 +6,35 @@
 <body>
 
   <h1>👋 Hi, I’m Sunita Yadav</h1>
-  <p><strong>Aspiring Full Stack Developer | Database Enthusiast | Tech Learner</strong></p>
+  <p><strong>Aspiring Data Scientist | Database Enthusiast | Tech Learner</strong></p>
 
   <div class="section">
-    <p>Welcome to my GitHub profile! I am currently pursuing a degree in <strong>BSc Information Technology</strong> and have developed a strong interest in <strong>Web Development</strong> and <strong>Database Management</strong>. I am passionate about building efficient, user-friendly applications and systems that deliver real-world value.</p>
+    <p>Welcome to my GitHub profile! I am currently pursuing a degree in <strong>BSc Information Technology</strong> and have developed a strong interest in <strong>Data Science</strong> and <strong>Database Management</strong>. I am passionate about building data-driven, user-friendly applications and systems that deliver real-world value.</p>
   </div>
 
   <div class="section">
     <h2>👀 What I’m Interested In:</h2>
-    <p>I have always been drawn to Web Development because it allows me to blend creativity with technical skills to create engaging, functional websites and applications. I enjoy working with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and frameworks like <strong>React</strong> to build responsive, dynamic web pages. Alongside this, I am fascinated by the world of <strong>Database Management</strong>, where I can optimize data handling processes and ensure the smooth functioning of backend systems.</p>
+    <p>I have always been drawn to Data Science because it allows me to blend analytical skills with technical expertise to uncover insights and drive informed decision-making. I enjoy working with <strong>Python</strong>, <strong>SQL</strong>, <strong>R</strong>, and libraries like <strong>pandas</strong> and <strong>NumPy</strong> to analyze, visualize, and interpret data. Alongside this, I am fascinated by the world of <strong>Database Management</strong>, where I can optimize data handling processes and ensure the smooth functioning of backend systems.</p>
     <p>As I continue to grow in these fields, I am constantly seeking out new tools and technologies to expand my skill set.</p>
   </div>
 
   <div class="section">
     <h2>🌱 What I’m Learning:</h2>
-    <p>I am always on the lookout for new challenges and learning opportunities. Currently, I’m delving into:</p>
+    <p>I am always on the lookout for new challenges and learning opportunities. Currently, I’m focusing on:</p>
     <ul class="skills-list">
-      <li>Machine Learning</li>
-      <li>Artificial Intelligence</li>
-      <li>TensorFlow</li>
-      <li>scikit-learn</li>
+      <li>Data Analysis and Visualization with Python (pandas, matplotlib, seaborn)</li>
+      <li>Foundational Machine Learning Concepts</li>
+      <li>Exploring Data Manipulation and Cleaning</li>
+      <li>Basic SQL for Data Extraction and Management</li>
     </ul>
-    <p>These technologies are helping me build intelligent applications that can process and analyze data efficiently, especially in AI-driven projects like chatbots, which provide real-time assistance to users.</p>
+    <p>These skills are helping me build a strong foundation in data science, equipping me to work on projects that analyze, clean, and interpret data for meaningful insights.</p>
   </div>
 
   <div class="section">
     <h2>💞️ Looking to Collaborate On:</h2>
-    <p>I am eager to collaborate on projects that allow me to combine my knowledge of web development, machine learning, and databases. I’m open to contributing to:</p>
+    <p>I am eager to collaborate on projects that allow me to combine my knowledge of data science, machine learning, and databases. I’m open to contributing to:</p>
     <ul>
-      <li><strong>Full Stack Development projects</strong>, especially those that involve building complex, scalable applications.</li>
+      <li><strong>Data Science projects</strong> that involve complex data analysis, data visualization, or predictive modeling.</li>
       <li><strong>Data-driven projects</strong> where I can apply machine learning models to derive insights or improve functionality.</li>
       <li><strong>Open Source projects</strong> that aim to solve real-world problems through innovative technology solutions.</li>
     </ul>
