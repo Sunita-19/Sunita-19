@@ -6,7 +6,7 @@
 <body>
 
   <h1>👋 Hi, I’m Sunita Yadav</h1>
-  <p><strong>Aspiring Data Scientist | Database Enthusiast | Tech Learner</strong></p>
+  <p><strong>Aspiring Data Analyst | Database Enthusiast | Tech Learner</strong></p>
 
   <div class="section">
     <p>Welcome to my GitHub profile! I am currently pursuing a degree in <strong>BSc Information Technology</strong> and have developed a strong interest in <strong>Data Science</strong> and <strong>Database Management</strong>. I am passionate about building data-driven, user-friendly applications and systems that deliver real-world value.</p>
