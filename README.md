@@ -50,21 +50,9 @@ Creating dashboards to present program and participant data in a clear and acces
 
 ### Program Data Analysis
 
-Working with program and organizational data to identify patterns and generate insights that can support program planning and reporting.
+Working with program and organizational data to identify patterns and generate insights that can support program planning and reporting. Working with feedback and assessment data to understand participant experiences and track program indicators.
 
 **Tools:** Excel · Data Cleaning · Data Analysis
-
-🔗 [View Project](#)
-
----
-
-### MEL & Feedback Analysis
-
-Working with feedback and assessment data to understand participant experiences and track program indicators.
-
-**Tools:** Excel · Survey Data · Data Analysis · Visualization
-
-🔗 [View Project](#)
 
 ---
 
