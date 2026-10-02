@@ -94,6 +94,6 @@ Strengthening my skills in:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunita%20Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sunita-yadav5)
+[![LinkedIn](www.linkedin.com/in/sunita-yadav5)
 
 📧 **Email:** sunitay1915@gmail.com
