@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Sunita Yadav
 
 ### Development Sector | Program Data | MEL | Data Visualization
 
@@ -94,6 +93,6 @@ Strengthening my skills in:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/sunita-yadav5)
+**LinkedIn:** (www.linkedin.com/in/sunita-yadav5)
 
 📧 **Email:** sunitay1915@gmail.com
