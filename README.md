@@ -1,92 +1,111 @@
-👋 Hi, I'm Sunita Yadav
+# 👋 Hi, I'm Sunita Yadav
 
-Development Sector | Program Data | MEL | Data Visualization
+### Development Sector | Program Data | MEL | Data Visualization
 
-I am an early-career development-sector professional interested in program data, Monitoring, Evaluation & Learning (MEL), data visualization, and program management.
+I’m an early-career development-sector professional interested in **Program Data, Monitoring, Evaluation & Learning (MEL), Data Visualization, and Program Management**.
 
-I enjoy working with data to understand program performance, organize information, identify useful insights, and support better program decisions.
+I enjoy working with data to organize information, understand program performance, identify useful insights, and support better decision-making.
 
-Through my experience, I have worked on data cleaning and validation, feedback analysis, dashboards, program documentation, reporting, and stakeholder coordination.
+---
 
-💡 Areas of Interest
+## 🌱 Areas of Interest
 
-Monitoring, Evaluation & Learning (MEL)
+- Monitoring, Evaluation & Learning (MEL)
+- Program Data & Analysis
+- Data Visualization & Dashboards
+- Impact Measurement
+- Program Management
+- Program Reporting & Documentation
+- Knowledge Management & Learning
 
-Program Data & Analysis
+---
 
-Data Visualization & Dashboards
+## 🛠️ Skills & Tools
 
-Impact Measurement
+**Data & Analysis**
 
-Program Management
+`Excel` · `Power Query` · `SQL` · `Data Cleaning` · `Data Validation` · `Data Analysis`
 
-Program Reporting & Documentation
+**MEL & Program Work**
 
-Knowledge Management & Learning
+`MEL` · `Feedback Analysis` · `Impact Measurement` · `Program Evaluation` · `Program Coordination`
 
-🛠️ Skills & Tools
+**Visualization & Communication**
 
-Data & Analysis
-Excel | Power Query | SQL | Data Cleaning | Data Validation | Data Analysis
+`Tableau` · `Power BI` · `Canva` · `PowerPoint` · `Data Visualization` · `Report Writing`
 
-MEL & Programs
-MEL | Feedback Analysis | Impact Measurement | Program Evaluation | Program Coordination
+---
 
-Visualization & Communication
-Tableau | Power BI | Canva | Data Visualization | Report Writing | Presentations
+## 📊 Featured Work
 
-📊 Selected Work
+### Tableau Dashboards
 
-Tableau Dashboards
+Creating dashboards to present program and participant data in a clear and accessible way.
 
-Dashboards created to present program and participant data in a clear and accessible way.
+**Tools:** Tableau · Excel
 
-Tools: Tableau, Excel
+🔗 [View Dashboard](#)
 
-🔗 [View Dashboard]
+---
 
-Program Data Analysis
+### Program Data Analysis
 
-Examples of working with program and organizational data to identify patterns and generate useful insights for program planning and reporting.
+Working with program and organizational data to identify patterns and generate insights that can support program planning and reporting.
 
-Tools: Excel | Data Cleaning | Data Analysis
+**Tools:** Excel · Data Cleaning · Data Analysis
 
-🔗 [View Project]
+🔗 [View Project](#)
 
-MEL & Feedback Analysis
+---
 
-Examples of working with feedback and assessment data to understand participant experiences and program indicators.
+### MEL & Feedback Analysis
 
-Tools: Excel | Survey Data | Data Analysis | Visualization
+Working with feedback and assessment data to understand participant experiences and track program indicators.
 
-🔗 [View Project]
+**Tools:** Excel · Survey Data · Data Analysis · Visualization
 
-Program Communication & Design
+🔗 [View Project](#)
 
-Selected examples of program presentations, communication materials, dashboards and other visual collateral.
+---
 
-Tools: Canva | PowerPoint
+### Program Communication & Design
 
-🔗 [View Work]
+Selected examples of program presentations, communication materials, and other visual collateral.
 
-💼 Experience
+**Tools:** Canva · PowerPoint
 
-Dasra — Fellow, Cohorts & Training
-Mumbai | 2025–2026
+🔗 [View Work](#)
 
-Supporting capacity-building programs through program coordination, participant data management, documentation, feedback analysis, dashboards and reporting.
+---
 
-YOJAK Foundation — Educator
-Mumbai | 2025
+## 💼 Experience
 
-Supported learning sessions, student engagement and attendance tracking for girls in Grades 8–10.
+### Dasra
+**Fellow — Cohorts & Training | Mumbai | 2025–2026**
 
-🌱 Currently Learning
+Supporting capacity-building programs through program coordination, participant data management, documentation, feedback analysis, dashboards, and reporting.
 
-Currently strengthening my skills in MEL, program data analysis, dashboard development and program management.
+### YOJAK Foundation
+**Educator | Mumbai | 2025**
 
-📫 Connect With Me
+Supported learning sessions, student engagement, and attendance tracking for girls in Grades 8–10.
 
-🔗 [LinkedIn]
+---
 
-📧 [Email]
+## 📚 Currently Learning
+
+Strengthening my skills in:
+
+- MEL processes and program evaluation
+- Program data analysis
+- Dashboard development
+- Data visualization
+- Program management
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunita%20Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+📧 **Email:** YOUR_EMAIL
