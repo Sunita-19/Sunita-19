@@ -1,64 +1,92 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+👋 Hi, I'm Sunita Yadav
 
-</head>
-<body>
+Development Sector | Program Data | MEL | Data Visualization
 
-  <h1>👋 Hi, I’m Sunita Yadav</h1>
-  <p><strong>Aspiring Data Analyst | Database Enthusiast | Tech Learner</strong></p>
+I am an early-career development-sector professional interested in program data, Monitoring, Evaluation & Learning (MEL), data visualization, and program management.
 
-  <div class="section">
-    <p>Welcome to my GitHub profile! I am a graduate in <strong>BSc Information Technology</strong> and have developed a strong interest in <strong>Data Analysis</strong> and <strong>Database Management</strong>. I am passionate about building data-driven, user-friendly applications and systems that deliver real-world value.</p>
-  </div>
+I enjoy working with data to understand program performance, organize information, identify useful insights, and support better program decisions.
 
-  <div class="section">
-    <h2>👀 What I’m Interested In:</h2>
-    <p>I have always been drawn to Data Science because it allows me to blend analytical skills with technical expertise to uncover insights and drive informed decision-making. I enjoy working with <strong>Python</strong>, <strong>SQL</strong> and libraries like <strong>pandas</strong> and <strong>NumPy</strong> to analyze, visualize, and interpret data. Alongside this, I am fascinated by the world of <strong>Database Management</strong>, where I can optimize data handling processes and ensure the smooth functioning of backend systems.</p>
-    <p>As I continue to grow in these fields, I am constantly seeking out new tools and technologies to expand my skill set.</p>
-  </div>
+Through my experience, I have worked on data cleaning and validation, feedback analysis, dashboards, program documentation, reporting, and stakeholder coordination.
 
-  <div class="section">
-    <h2>🌱 What I’m Learning:</h2>
-    <p>I am always on the lookout for new challenges and learning opportunities. Currently, I’m focusing on:</p>
-    <ul class="skills-list">
-      <li>Data Analysis and Visualization with Python (pandas, matplotlib, seaborn)</li>
-      <li>Foundational Machine Learning Concepts</li>
-      <li>Exploring Data Manipulation and Cleaning</li>
-      <li>Basic SQL for Data Extraction and Management</li>
-    </ul>
-    <p>These skills are helping me build a strong foundation in data science, equipping me to work on projects that analyze, clean, and interpret data for meaningful insights.</p>
-  </div>
+💡 Areas of Interest
 
-  <div class="section">
-    <h2>💞️ Looking to Collaborate On:</h2>
-    <p>I am eager to collaborate on projects that allow me to combine my knowledge of data science, machine learning, and databases. I’m open to contributing to:</p>
-    <ul>
-      <li><strong>Data Science projects</strong> that involve complex data analysis, data visualization, or predictive modeling.</li>
-      <li><strong>Data-driven projects</strong> where I can apply machine learning models to derive insights or improve functionality.</li>
-      <li><strong>Open Source projects</strong> that aim to solve real-world problems through innovative technology solutions.</li>
-    </ul>
-    <p>If you’re working on anything in these areas and looking for a passionate collaborator, feel free to reach out to me!</p>
-  </div>
+Monitoring, Evaluation & Learning (MEL)
 
-  <div class="section">
-    <h2>📫 How to Reach Me:</h2>
-    <p class="contact-info">
-      I’m always open to connecting with like-minded individuals, whether for project collaborations, career advice, or just to discuss the latest trends in tech. You can reach me through the following channels:
-      <br>
-      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunita-yadav-057a75300" target="_blank">Sunita Yadav</a>
-      <br>
-      <strong>Email:</strong> <a href="mailto:sunitayadav190105@gmail.com">sunitayadav190105@gmail.com</a>
-    </p>
-    <p>Feel free to drop me a message! I love engaging with fellow tech enthusiasts and am always looking to learn from new perspectives.</p>
-  </div>
+Program Data & Analysis
 
-  <div class="section">
-    <h2>⚡ Fun Fact:</h2>
-    <p class="fun-fact">I am passionate about giving back to society. I love spending time with children and have volunteered for organizations like <strong>Lok Biradari Prakalp</strong> and <strong>Manav Sadhna</strong>, where I’ve had the chance to teach and mentor kids. These experiences have strengthened my commitment to using technology to make a positive impact in the world.</p>
-  </div>
+Data Visualization & Dashboards
 
-  <p>Thank you for visiting my profile! Let’s connect, collaborate, and create something amazing together. 😊</p>
+Impact Measurement
 
-</body>
-</html>
+Program Management
+
+Program Reporting & Documentation
+
+Knowledge Management & Learning
+
+🛠️ Skills & Tools
+
+Data & Analysis
+Excel | Power Query | SQL | Data Cleaning | Data Validation | Data Analysis
+
+MEL & Programs
+MEL | Feedback Analysis | Impact Measurement | Program Evaluation | Program Coordination
+
+Visualization & Communication
+Tableau | Power BI | Canva | Data Visualization | Report Writing | Presentations
+
+📊 Selected Work
+
+Tableau Dashboards
+
+Dashboards created to present program and participant data in a clear and accessible way.
+
+Tools: Tableau, Excel
+
+🔗 [View Dashboard]
+
+Program Data Analysis
+
+Examples of working with program and organizational data to identify patterns and generate useful insights for program planning and reporting.
+
+Tools: Excel | Data Cleaning | Data Analysis
+
+🔗 [View Project]
+
+MEL & Feedback Analysis
+
+Examples of working with feedback and assessment data to understand participant experiences and program indicators.
+
+Tools: Excel | Survey Data | Data Analysis | Visualization
+
+🔗 [View Project]
+
+Program Communication & Design
+
+Selected examples of program presentations, communication materials, dashboards and other visual collateral.
+
+Tools: Canva | PowerPoint
+
+🔗 [View Work]
+
+💼 Experience
+
+Dasra — Fellow, Cohorts & Training
+Mumbai | 2025–2026
+
+Supporting capacity-building programs through program coordination, participant data management, documentation, feedback analysis, dashboards and reporting.
+
+YOJAK Foundation — Educator
+Mumbai | 2025
+
+Supported learning sessions, student engagement and attendance tracking for girls in Grades 8–10.
+
+🌱 Currently Learning
+
+Currently strengthening my skills in MEL, program data analysis, dashboard development and program management.
+
+📫 Connect With Me
+
+🔗 [LinkedIn]
+
+📧 [Email]
