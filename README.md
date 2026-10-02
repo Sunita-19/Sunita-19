@@ -79,18 +79,6 @@ Supported learning sessions, student engagement, and attendance tracking for gir
 
 ---
 
-## 📚 Currently Learning
-
-Strengthening my skills in:
-
-- MEL processes and program evaluation
-- Program data analysis
-- Dashboard development
-- Data visualization
-- Program management
-
----
-
 ## 🤝 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sunita-yadav5/) · 📧 [Email](mailto:sunitay1915@gmail.com)
