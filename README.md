@@ -93,6 +93,4 @@ Strengthening my skills in:
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** (www.linkedin.com/in/sunita-yadav5)
-
-📧 **Email:** sunitay1915@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sunita-yadav5/) · 📧 [Email](mailto:sunitay1915@gmail.com)
