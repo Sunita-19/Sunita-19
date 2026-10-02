@@ -44,7 +44,7 @@ Creating dashboards to present program and participant data in a clear and acces
 
 **Tools:** Tableau · Excel
 
-🔗 [View Dashboard](#)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/sunita.yadav7527/viz/LP_CohortProfile_2025-26/ProgramOrgDetails)
 
 ---
 
@@ -74,7 +74,7 @@ Selected examples of program presentations, communication materials, and other v
 
 **Tools:** Canva · PowerPoint
 
-🔗 [View Work](#)
+🔗 [View Work](https://www.linkedin.com/posts/dasra_alumni-speak-dsi-mp-vishwaja-b-activity-7511019677733707776-TgBb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0LUQMBQ6qHwvTwwT58wvnFIqVOW-jFm4c)
 
 ---
 
